@@ -3,7 +3,7 @@
 :root {
     --cor-fundo: #f0f0f0;
     --cor-card: #ffffff;
-    --cor-principal: #6c5ce7; /* Altere apenas esta linha para mudar o tema */
+    --cor-principal: #6c5ce7; 
     --borda-raio: 15px;
     --espacamento: 20px;
 }
